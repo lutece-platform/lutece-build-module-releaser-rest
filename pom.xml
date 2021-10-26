@@ -15,6 +15,12 @@
     <version>1.0.0-SNAPSHOT</version>
     <name>Lutece releaser rest module</name>
 
+	<scm>
+		<connection>scm:git:https://github.com/lutece-platform/lutece-build-module-releaser-rest</connection>
+		<developerConnection>scm:git:https://github.com/lutece-platform/lutece-build-module-releaser-rest</developerConnection>
+		<url>https://github.com/lutece-platform/lutece-build-module-releaser-rest</url>
+	</scm>
+
     <repositories>
         <repository>
             <id>lutece</id>
