@@ -45,7 +45,7 @@
         <dependency>
             <groupId>fr.paris.lutece</groupId>
             <artifactId>lutece-core</artifactId>
-            <version>[5.0.0,6.9.9)</version>
+            <version>[6.0.0,)</version>
             <type>lutece-core</type>
         </dependency>
         <dependency>
@@ -64,7 +64,7 @@
 
     <properties>
         <componentName>releaser-rest</componentName>
-        <jiraProjectName>RELEASERREST</jiraProjectName>
+        <jiraProjectName>MRELREST</jiraProjectName>
         <jiraComponentId></jiraComponentId>
     </properties>
 </project>
