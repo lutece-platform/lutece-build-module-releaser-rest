@@ -12,14 +12,15 @@
 
     <artifactId>module-releaser-rest</artifactId>
     <packaging>lutece-plugin</packaging>    
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>Lutece releaser rest module</name>
 
 	<scm>
 		<connection>scm:git:https://github.com/lutece-platform/lutece-build-module-releaser-rest.git</connection>
 		<developerConnection>scm:git:https://github.com/lutece-platform/lutece-build-module-releaser-rest.git</developerConnection>
 		<url>https://github.com/lutece-platform/lutece-build-module-releaser-rest.git</url>
-	</scm>
+	  <tag>module-releaser-rest-1.0.0</tag>
+  </scm>
 
     <repositories>
         <repository>
@@ -65,6 +66,6 @@
     <properties>
         <componentName>releaser-rest</componentName>
         <jiraProjectName>MRELREST</jiraProjectName>
-        <jiraComponentId></jiraComponentId>
+        <jiraComponentId />
     </properties>
 </project>
